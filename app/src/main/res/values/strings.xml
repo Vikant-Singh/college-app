@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My College App</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="about_college">University of Allahabad has always occupied an esteemed place among the Universities of India for over
+        a century. Established on 23rd September 1887, it is the fourth oldest University of India after Calcutta, Bombay and Madras University.
+        The credit for conceiving a large Central College in Allahabad (now named as Prayagraj), eventually to develop into a University, goes to Sir William Muir,
+        Lt. Governor of United Provinces. As a result of his initiative the foundation stone of the Muir Central College (named after him) was laid on Dec. 9 1873 by
+        His Excellency Lord Northbrook. Sir William Muir said on the occasion; </string>
+
+</resources>
